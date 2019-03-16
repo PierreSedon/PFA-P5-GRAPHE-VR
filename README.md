@@ -1,2 +1,2 @@
 Ceci est un README.
-test hook2
+test hook
